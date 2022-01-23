@@ -1,0 +1,137 @@
+*{
+  margin:0;
+  padding:0;
+  background-color:rgb(21, 26, 26);
+  font-family:"Alata", sans-serif;
+}
+
+#banner{
+  display: flex;
+  width: 100%;
+  justify-content:space-between;
+  height: 120px;
+  background-color:rgb(21, 26, 26);
+  position:fixed;
+  border-bottom:20px solid;
+  border-bottom-color:red;
+}
+
+#hack4pan-logo{
+  width:220px;
+}
+
+#header-buttons{
+  display: flex;
+  justify-content: space-around;
+  width:400px;
+  color:white;
+  align-items:center;
+  height:100%;
+  list-style:none;
+}
+
+
+
+.header-links{
+  color:white;
+  text-decoration:none;
+  font-family:"orbitron", sans-serif;
+}
+
+.header-links:hover{
+  color:red;
+}
+
+#hack4pan-title{
+  text-align:center;
+}
+
+#section-hack4pan{
+  display:flex;
+  align-items:center;
+  flex-direction:column;
+}
+
+#hack4pan-title{
+  color:white;
+  font-family:"orbitron", sans-serif;
+}
+
+#hack4pan-secondline{
+  color:white;
+  font-family:"orbitron", sans-serif;
+}
+
+#video-youtube{
+  height:300px;
+  width:500px;
+}
+
+#section-Guidelines{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+}
+
+.Guidelines-titles{
+  color:white;
+  font-family:"orbitron", sans-serif;
+}
+
+.Guidelines-text{
+  color:white;
+  width:66%;
+}
+
+
+#section-SocialMedia{
+  display:flex;
+  justify-content:space-evenly;
+}
+
+.three-links{
+  display:flex;
+  flex-direction:column;
+}
+
+.individual-links{
+  color:white;
+  text-decoration:none;
+  margin-bottom:20px;
+}
+
+.individual-links:hover{
+  color:red;
+}
+
+.logo-lineone{
+  display:flex;
+  justify-content:center;
+}
+
+#twitch-logo{
+  width:30px;
+  height:30px;
+  margin-right:5px;
+  margin-top:-5px;
+}
+
+#twitter-logo{
+  width:45px;
+  height:25px;
+  margin-top:-2px;
+  margin-right:-4px;
+}
+
+blockquote{
+  width:250px;
+  height:200px;
+}
+
+#instagram-logo{
+  width:25px;
+  height:25px;
+  margin-right:5px;
+  margin-top:-1px;
+}

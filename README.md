@@ -1,5 +1,5 @@
-# A Hack4Pan Introductory Website
+# My-First-Hackathon
+Static website created for the Hack4Pan Hackathon in 2022.
 
-
-Link to the website: https://lyuhiroyama.github.io/hack4pan-trial4/
+Link to the website: https://lyuhiroyama.github.io/My-First-Hackathon/
 
